@@ -12,8 +12,6 @@
 一家 24 小时便利店立在雨夜的街角，停车场积着水洼，灯箱和招牌映在湿漉漉的沥青上。
 对面是斑马线、信号灯、电线和一排小楼 —— 打开 `rainy-mart.html` 就跑，不需要构建，也不需要服务器。
 
-**在线预览**：[https://abobb414.github.io/rainy-mart/](https://abobb414.github.io/rainy-mart/)
-
 [![Build](https://img.shields.io/badge/build-none_required-3fb950?style=flat-square&logo=html5&logoColor=white)](#运行)
 [![Dependencies](https://img.shields.io/badge/dependencies-0-3fb950?style=flat-square&logo=npm&logoColor=white)](#结构)
 [![three.js](https://img.shields.io/badge/three.js-inlined-2f80ed?style=flat-square&logo=threedotjs&logoColor=white)](#结构)
@@ -59,7 +57,6 @@ open rainy-mart.html
 
 ```
 rainy-mart.html          主文件，HTML + CSS + JS + three.js 全在里面
-index.html               静态托管入口（跳转到 rainy-mart.html）
 docs/images/             README 标志（浅色 / 深色两版）
 ```
 
